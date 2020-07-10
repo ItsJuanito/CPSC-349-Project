@@ -1,4 +1,4 @@
-# CPSC-349-Project
+# CPSC-349-Project: Team Benchwarmers Project
 
 # Project sumbission for CSUF 349-01 Session B Summer
 
@@ -49,5 +49,4 @@
                               in. This page currenlty only displays a banner that is located in the image folder. The search bar
                               is handled by the API and its style sheets.
   
-    
-Team Benchwarmers Project
+
