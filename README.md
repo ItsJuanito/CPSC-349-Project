@@ -2,14 +2,14 @@
 
 # Project sumbission for CSUF 349-01 Session B Summer
 
-# CSS Folder
+# Css Folder
   - bootstrap.min.ss              : calls a bootstrap style. Credits given in file.
   - stlye.cc                      : contains styling for the results after searching for a movie. Creates neat boxes and centers them about the page.
     
-# IMG Folder
+# Img Folder
   - gallery folder                : contains local users uploads to the wesbite. Data here can be deleted as it is stored in the database
     
-# INCLUDES Folder
+# Includes Folder
   - dbh.inc.php                   : Stands for Database includes. This connects to the databse with admin login credentials.
   - gallery-upload.inc.php        : Stands for Gallery Databse includes. This file handles a user uploading a photo ensuring its of                                           type jpg, jpeg, or png. It
                                   also checks to see it doesn't hit a file size too large for the database to handle. Error                                           handling is echo to user 
@@ -17,7 +17,7 @@
                                             "You had an error!";
                                             "You need to upload a proper file type!";
 
-# JS Folder
+# Js Folder
   - axios.min.js              : Grabbing API. Credit given in code
   - bootstrap.min.js          : Grabbing the style sheet for the above the API. Credits given in code
   - jquery-3.2.1.min.js       : Granning java script code to handle API search results. Credits given in code
