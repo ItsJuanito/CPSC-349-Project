@@ -13,13 +13,13 @@
   </head>
   <body>
     <header>
-      <a href="index.html" class="header-brand">RateMyNetlfix</a>
+      <a href="welcome.php" class="header-brand">RateMyNetlfix</a>
       <nav>
         <ul>
           <li><a href="about.html">About</a></li>
           <li><a href="contact.html">Contact</a></li>
         </ul>
-        <a href="gallery.php" class="header-cases">Movies</a>
+        <a href="gallery.php" class="header-cases">My Account</a>
       </nav>
     </header>
     <main>
