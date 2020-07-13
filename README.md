@@ -50,3 +50,14 @@
                               is handled by the API and its style sheets.
   
 
+Regarding adding comments: Rather than working hours to develop a commenting system that allows ratings and administrator oversight, I suggest we use the Disqus API once the sight is published. This API allows for moderation, threaded comments, and ratings for individual comments. This API can only be added once the wesbite is published to a hosting service so I'll add that once its all finalized.
+- Anthony
+
+Regarding Personilzed Accounts: We might want to push back this feature as it can become too time consuming to get all the features we mentioned. I push we make the website stylish and functioning 100% before adding a social media aspect to it. 
+- Anthony
+
+Regarding About and Contact Pages: Feel free to modify and add code to those pages. Those are reserved for members to work and experiment with CSS and Java Script. Feel free to message me on discord with questions and concerns regarding those pages.
+- Anthony
+
+Lastly, if you have concerns about anything regarding this project or class please message me. I'll do my best to reply within the day you contact me.
+- Anthony
