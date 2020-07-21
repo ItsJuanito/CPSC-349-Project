@@ -12,12 +12,21 @@ span {
   color: red;
 }
 .AboutUs {
+  margin-top: 75px;
   padding: 70px;
   color: #FFF;
   background-color: #474e5d;
   text-align: center;
 }
+.AboutUs a {
+  text-decoration: none;
+  color: red;
+}
+.AboutUs a:hover {
+  color: #FFF;
+}
 .team {
+  margin-bottom: 23px;
   padding: 30px;
   color: black;
   text-align: center;
@@ -28,7 +37,7 @@ span {
   width: 93%;
   grid-template-columns: 400px 400px 400px;
   grid-gap: 30px;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
   color: #FFF;
 }
 .grid-container h1 {
@@ -67,3 +76,11 @@ span {
 .grid-item a:hover {
   background-color: red;
 }
+footer {
+  margin-top: 30px;
+  padding: 25px;
+  text-align: center;
+  background-color: #474e5d;
+  color: #FFF;
+}
+
