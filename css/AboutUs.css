@@ -5,17 +5,23 @@
 }
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #FFF;
+  background-color: #000;
   margin: 0;
 }
 span {
   color: red;
 }
 .AboutUs {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url("../img/team.jpg");
+  height: 65vh;
+  box-shadow: 0px 2px 4px rgb(0, 0, 0);
+  text-shadow: 2px 2px 7px rgb(0, 0, 0);
+  background-size: cover;
+  background-position: center;
+  /*background-color: #474e5d;*/
   margin-top: 75px;
   padding: 70px;
   color: #FFF;
-  background-color: #474e5d;
   text-align: center;
 }
 .AboutUs a {
@@ -28,7 +34,7 @@ span {
 .team {
   margin-bottom: 23px;
   padding: 30px;
-  color: black;
+  color: #FFF;
   text-align: center;
 }
 .grid-container {
@@ -63,12 +69,14 @@ span {
   margin-left: 25%;
 }
 .grid-item a {
+  text-transform: capitalize;
   text-decoration: none;
+  font-size: 20px;
   color: #FFF;
   background-color: #090507;
   margin-top: 20px;
   margin-bottom: 20px;
-  margin-left: 37%;
+  margin-left: 33%;
   padding: 15px 25px;
   float: left;
   border-radius: 8px;
@@ -78,10 +86,11 @@ span {
 }
 footer {
   margin-top: 30px;
-  padding: 25px;
   width: 100%;
+  padding: 25px;
   text-align: center;
   background-color: #474e5d;
   color: #FFF;
 }
+
 
